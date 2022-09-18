@@ -24,7 +24,7 @@ contract ZombieFactory {
   // private 함수 & view 함수 선언
   // view 함수: solidity에서 상태를 변화시키지는 않지만 다른 값을 참조는 할 수 있는 함수
     function _generateRandomDna(string _str) private view returns (uint) {
-        uint rand = uint(keccak256(_str));
+        uint rand = uint(keccak256(_str)); //keccak256 : SHA3의 한 버전인 내장 해시 함수로, 입력 스트링을 랜덤 256비트 16진수로 배정하도록 한다.
         return rand % dnaModulus;
     }
 
