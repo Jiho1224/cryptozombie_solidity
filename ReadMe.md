@@ -4,7 +4,7 @@
 ##### Solidity Path: Beginner to Intermediate Smart Contracts (진행중)
 * Making the Zombie Factory (2022.09.18완)
 * Zombie attacks their victims (2022.09.18완)
-* Advanced Solidity Concepts
+* Advanced Solidity Concepts (2022.09.20완)
 * Zombie Battle System
 * ERC721 & Crypto-Collectibles
 * App Front-ends & Web3.js
