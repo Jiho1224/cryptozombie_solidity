@@ -5,7 +5,7 @@
 * Making the Zombie Factory (2022.09.18완)
 * Zombie attacks their victims (2022.09.18완)
 * Advanced Solidity Concepts (2022.09.20완)
-* Zombie Battle System
+* Zombie Battle System (2022.09.21완)
 * ERC721 & Crypto-Collectibles
 * App Front-ends & Web3.js
 
