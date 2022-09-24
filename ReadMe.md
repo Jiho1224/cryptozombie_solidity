@@ -6,7 +6,7 @@
 * Zombie attacks their victims (2022.09.18완)
 * Advanced Solidity Concepts (2022.09.20완)
 * Zombie Battle System (2022.09.21완)
-* ERC721 & Crypto-Collectibles
+* ERC721 & Crypto-Collectibles (2022.09.24완)
 * App Front-ends & Web3.js
 
 
